@@ -5,6 +5,9 @@ Database: MySQL
 # Documentation
 ![Data Table](https://github.com/DonnnChaewon/ifruit/blob/main/documentation/Screenshot%202024-12-23%20161949.png)<br>
 
+# Table Structure
+![Table Structure](https://github.com/DonnnChaewon/ifruit/blob/main/documentation/Screenshot%202024-12-23%20164709.png)<br>
+
 # Questions
 1. Buah apa saja yang dimiliki Andi? (fruitName)<br>
    Answer:<br>
