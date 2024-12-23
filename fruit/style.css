@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+}
+
+.mx-auto {
+    width: 1000px;
+}
+
+.card {
+    margin-top: 10px;
+    background-color: black;
+    color: white;
+}
+
+.card-header {
+    font-size: 20px;
+}
+
+p {
+    color: white;
+}
