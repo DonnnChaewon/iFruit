@@ -137,4 +137,4 @@ $stock = "";
 
 </html>
 
-<!-- Komentar: Untuk yang soal nomor 2, aku tidak tahu caranya untuk kasih spasi setelah koma. -->
+<!-- Komentar: Untuk yang soal nomor 2, tidak ada spasi setelah koma untuk memisahkan nama-nama buah. -->
