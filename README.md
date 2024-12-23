@@ -23,4 +23,4 @@ Database: MySQL
    ![Code](https://github.com/DonnnChaewon/ifruit/blob/main/documentation/Screenshot%202024-12-23%20163449.png)<br>
 4. Apakah ada komentar terkait kasus di atas?<br>
    Answer:<br>
-   Untuk yang soal nomor 2, tidak ada spasi setelah koma untuk memisahkan nama-nama buah.<br>
+   Untuk yang soal nomor 2, tidak ada spasi setelah koma untuk memisahkan nama-nama buah.
